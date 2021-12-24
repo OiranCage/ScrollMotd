@@ -1,0 +1,5 @@
+name: DenkoMotd
+main: famima65536\DenkoMotd\Main
+version: 1.0.0
+api: 4.0.0
+src-namespace-prefix: famima65536\DenkoMotd

@@ -1,0 +1,17 @@
+{
+    "name": "famima65536/denko-motd",
+    "description": "show all motd text.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "famima65536",
+            "email": "famima65536@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "pocketmine/pocketmine-mp": "^4.0.3"
+    }
+}
